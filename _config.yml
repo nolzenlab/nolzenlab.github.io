@@ -32,7 +32,7 @@ exclude:
     "Gruntfile.js",
     "package.json",
     "README.md",
-    "README.zh.md",
+    "README.ko.md",
   ]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
@@ -74,7 +74,7 @@ ga_domain: #huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "놀젠스튜디오 연구소 <br> React Team @ Meta"
+sidebar-about-description: "놀젠스튜디오 연구소 <br> 개발 연구 @ Meta"
 sidebar-avatar: https://nolzenlab.github.io/img/my_img.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
