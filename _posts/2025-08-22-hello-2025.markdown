@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Hello 2025"
-subtitle:   " \"Hello World, Hello NolzenLab Blog\""
+subtitle:   " \"Hello World, Hello Blog\""
 date:       2025-08-22 10:36:00
 author:     "nolzenlab"
 header-img: "img/post-bg-2015.jpg"
@@ -12,6 +12,7 @@ tags:
 ---
 
 > “Yeah It's on. ”
+
 
 놀젠스튜디오 연구소 블로그입니다.
 
