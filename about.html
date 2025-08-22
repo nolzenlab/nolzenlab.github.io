@@ -7,7 +7,7 @@ header-mask: 0.3
 multilingual: true
 ---
 
-{% include multilingual-sel.html %}
+<!-- {% include multilingual-sel.html %} -->
 
 <!-- Korean Version -->
 <div class="ko post-container">
@@ -16,10 +16,10 @@ multilingual: true
 </div>
 
 <!-- English Version -->
-<div class="en post-container">
+<!--div class="en post-container">
     {% capture about_en %}{% include about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
-</div>
+</div-->
 
 
 {% if site.disqus_username %}
