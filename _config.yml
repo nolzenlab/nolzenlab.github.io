@@ -1,10 +1,10 @@
 # Site settings
 title: NolzenLab Blog
-SEOTitle: 놀젠연구소 블로그 | NolzenLab Blog
+SEOTitle: 놀젠스튜디오 연구소 블로그 | NolzenLab Blog
 header-img: img/home-bg.jpg
 email: nolzenlab@gmail.com
-description: "이곳은 @놀젠연구소 블로그입니다. 여러분과 함께 더 큰 세상을 탐험하세요 | 멋진 프로그래머가 되어보세요"
-keyword: "nolzenlab, nolzenstudio, NolzenLab Blog, unity, unreal, c, c++, c#, Web, JavaScript, React, React Native, AI, MCP"
+description: "이곳은 @놀젠스튜디오 연구소 블로그입니다. 여러분과 함께 더 큰 세상을 탐험하세요 | 멋진 프로그래머가 되어보세요"
+keyword: "nolzenlab, nolzenstudio, NolzenLab Blog, unity, unreal, c, c++, c#, AI, MCP"
 url: "https://nolzenlab.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -77,7 +77,7 @@ ga_domain: #huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "놀젠스튜디오 연구소 <br> 개발 연구 @ Meta"
+sidebar-about-description: "놀젠스튜디오 연구원 <br> 개발 연구 @nolzenstudio"
 sidebar-avatar: https://nolzenlab.github.io/img/my_img.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
