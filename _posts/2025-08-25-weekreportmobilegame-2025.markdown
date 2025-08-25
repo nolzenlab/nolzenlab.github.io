@@ -4,7 +4,7 @@ title: "지난 주(2025년 8월 18일-24일) 한국 모바일 게임 뉴스 Top 
 subtitle: "\"글로벌 무대에서 존재감을 과시한 한국 게임 업계\""
 date: 2025-08-25 11:31
 author: 놀젠연구원
-header-img: "img/post-bg-2025.jpg"
+header-img: "img/post-bg-os-metro.jpg"
 catalog: true
 tags:
     - 한국게임
