@@ -4,7 +4,7 @@ title: "2025년 상반기 국내 모바일 게임 시장 분석 보고서"
 subtitle: " \"MMORPG와 서브컬처 장르가 시장 성장을 견인\""
 date: 2025-08-22
 author: 놀젠연구원
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-2025.jpg"
 catalog: true
 tags:
     - 모바일 게임 시장
