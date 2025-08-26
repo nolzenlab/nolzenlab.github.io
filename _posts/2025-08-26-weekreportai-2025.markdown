@@ -32,34 +32,34 @@ tags:
 8월 7일 OpenAI가 GPT-5를 API 플랫폼에 출시했으며, 이는 코딩 및 에이전트 작업을 위한 최고의 모델로 평가됩니다. [link1]  GPT-5는 SWE-bench Verified에서 74.9%, Aider polyglot에서 88%를 기록하며 주요 코딩 벤치마크에서 최첨단(SOTA) 성능을 달성했습니다.
 
 **주요 특징:**
--   `verbosity` 파라미터(`low`, `medium`, `high`)를 지원하여 답변의 간결함과 포괄성을 조절 가능하며, `reasoning_effort` 파라미터는 최소값 설정으로 광범위한 추론 없이 빠른 응답 가능[1]
--   API에서 `gpt-5`, `gpt-5-mini`, `gpt-5-nano` 세 가지 크기로 제공되어 개발자들에게 성능, 비용, 지연 시간의 균형을 맞출 수 있는 유연성 제공[1]
+-   `verbosity` 파라미터(`low`, `medium`, `high`)를 지원하여 답변의 간결함과 포괄성을 조절 가능하며, `reasoning_effort` 파라미터는 최소값 설정으로 광범위한 추론 없이 빠른 응답 가능 [link1]
+-   API에서 `gpt-5`, `gpt-5-mini`, `gpt-5-nano` 세 가지 크기로 제공되어 개발자들에게 성능, 비용, 지연 시간의 균형을 맞출 수 있는 유연성 제공 [link1]
 
 ### 2. 중국 AI 에이전트 기술 대거 공개
 
 #### Baidu GenFlow 2.0 출시
 
-8월 18일 Baidu Wenku와 Netdisk가 100개 이상의 병렬 AI 에이전트를 동시에 작동시킬 수 있는 GenFlow 2.0을 도입했습니다. Multi-Agent Parallel Architecture를 기반으로 구축된 GenFlow 2.0은 복잡한 작업 처리를 시간 단위에서 3분 미만으로 단축시켰습니다.[2]
+8월 18일 Baidu Wenku와 Netdisk가 100개 이상의 병렬 AI 에이전트를 동시에 작동시킬 수 있는 GenFlow 2.0을 도입했습니다. Multi-Agent Parallel Architecture를 기반으로 구축된 GenFlow 2.0은 복잡한 작업 처리를 시간 단위에서 3분 미만으로 단축시켰습니다. [link2]
 
 **핵심 기능:**
--   사용자가 실행 중 모든 단계에서 작업을 일시 중지하고, 지시사항을 수정하며, 결과를 편집할 수 있는 완전한 제어권 제공[2]
--   Baidu Scholar의 6억 8천만 개 논문과 Baidu Wenku의 14억 개 문서에 자율적으로 접근하여 RAG와 다중 에이전트 교차 검증을 통해 환각을 줄이고 뛰어난 정확성 제공[2]
+-   사용자가 실행 중 모든 단계에서 작업을 일시 중지하고, 지시사항을 수정하며, 결과를 편집할 수 있는 완전한 제어권 제공 [link2]
+-   Baidu Scholar의 6억 8천만 개 논문과 Baidu Wenku의 14억 개 문서에 자율적으로 접근하여 RAG와 다중 에이전트 교차 검증을 통해 환각을 줄이고 뛰어난 정확성 제공 [link2]
 
 ### 3. AI 버블 경고와 시장 조정
 
-OpenAI CEO Sam Altman이 AI가 버블일 수 있다고 언급하며 1990년대 닷컴 붐과 유사한 시장 상황을 비교했습니다. Meta는 최근 AI 인재에게 1억 달러의 계약 보너스를 지급했지만 채용 동결을 시행하고 AI 부서 규모 축소를 검토 중이며, Sam Altman은 미디어 인터뷰에서 "버블"이라는 단어를 언급했습니다.[4]
+OpenAI CEO Sam Altman이 AI가 버블일 수 있다고 언급하며 1990년대 닷컴 붐과 유사한 시장 상황을 비교했습니다. Meta는 최근 AI 인재에게 1억 달러의 계약 보너스를 지급했지만 채용 동결을 시행하고 AI 부서 규모 축소를 검토 중이며, Sam Altman은 미디어 인터뷰에서 "버블"이라는 단어를 언급했습니다. [link4]
 
 ### 4. AI 구현 실패율 문제
 
-MIT 지원 보고서에 따르면 기업의 생성형 AI 파일럿 프로젝트의 약 95%가 의미 있는 결과를 제공하지 못하고 있으며, 문제는 AI 모델 자체가 아닌 통합 부족, 사용자 준비도, 전략 정렬 등 구현 격차에 있습니다.[5]
+MIT 지원 보고서에 따르면 기업의 생성형 AI 파일럿 프로젝트의 약 95%가 의미 있는 결과를 제공하지 못하고 있으며, 문제는 AI 모델 자체가 아닌 통합 부족, 사용자 준비도, 전략 정렬 등 구현 격차에 있습니다. [link5]
 
 ### 5. 미중 AI 경쟁 심화 경고
 
-OpenAI CEO Sam Altman이 미국이 중국의 AI 발전의 전략적 특성을 과소평가할 수 있다고 경고했으며, "중국 안전" 칩 정책과 같은 수출 통제만으로는 중국의 다층적 AI 추진을 막기에 불충분하다고 지적했습니다.[5]
+OpenAI CEO Sam Altman이 미국이 중국의 AI 발전의 전략적 특성을 과소평가할 수 있다고 경고했으며, "중국 안전" 칩 정책과 같은 수출 통제만으로는 중국의 다층적 AI 추진을 막기에 불충분하다고 지적했습니다. [link5]
 
 ### 6. AI 인프라 대규모 투자
 
-8월 18일 North Dakota의 Harwood에 30억 달러 규모의 AI 중심 데이터 센터 건설이 발표되었으며, 이 시설은 AI 훈련과 클라우드 서비스를 위한 첨단 인프라를 포함할 예정입니다.[5]
+8월 18일 North Dakota의 Harwood에 30억 달러 규모의 AI 중심 데이터 센터 건설이 발표되었으며, 이 시설은 AI 훈련과 클라우드 서비스를 위한 첨단 인프라를 포함할 예정입니다. [link5]
 
 ---
 
@@ -82,7 +82,7 @@ OpenAI CEO Sam Altman이 미국이 중국의 AI 발전의 전략적 특성을 �
 놀젠연구원 2025.08.26
 
 [link1]: //openai.com/ko-KR/index/introducing-gpt-5/
-[2]: //en.wikipedia.org/wiki/Z.ai
-[3]: //www.cnbc.com/2025/08/18/openai-sam-altman-warns-ai-market-is-in-a-bubble.html
-[4]: //edition.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap
-[5]: //www.crescendo.ai/news/latest-ai-news-and-updates
+[link2]: //en.wikipedia.org/wiki/Z.ai
+[link3]: //www.cnbc.com/2025/08/18/openai-sam-altman-warns-ai-market-is-in-a-bubble.html
+[link4]: //edition.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap
+[link5]: //www.crescendo.ai/news/latest-ai-news-and-updates
