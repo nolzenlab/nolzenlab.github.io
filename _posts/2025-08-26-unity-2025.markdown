@@ -4,7 +4,7 @@ title: "Unity 주간 뉴스 보고서 (2025.08.18-24)"
 subtitle: "\"Unity, AI 통합과 재무 개선으로 새로운 도약 준비\""
 date: 2025-08-26 09:40
 author: 놀젠연구원
-header-img: "img/post-bg-infinity.jpg"
+header-img: "img/post-bg-universe.jpg"
 catalog: true
 tags:
     - Unity
