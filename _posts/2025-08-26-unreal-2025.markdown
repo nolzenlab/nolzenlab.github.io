@@ -4,7 +4,7 @@ title: "Unreal Engine 주간 뉴스 보고서 (2025.08.18-24)"
 subtitle: "\"Fortnite 업데이트와 '오징어 게임' 콜라보레이션으로 UEFN 생태계 확장\""
 date: 2025-08-26 10:01
 author: 놀젠연구원
-header-img: "img/unreal-bg.jpg"
+header-img: "img/post-bg-universe.jpg"
 catalog: true
 tags:
     - 언리얼
