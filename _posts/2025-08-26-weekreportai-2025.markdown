@@ -29,7 +29,7 @@ tags:
 
 ### 1. OpenAI GPT-5 공식 출시 및 시장 반응
 
-8월 7일 OpenAI가 GPT-5를 API 플랫폼에 출시했으며, 이는 코딩 및 에이전트 작업을 위한 최고의 모델로 평가됩니다.[1] GPT-5는 SWE-bench Verified에서 74.9%, Aider polyglot에서 88%를 기록하며 주요 코딩 벤치마크에서 최첨단(SOTA) 성능을 달성했습니다.
+8월 7일 OpenAI가 GPT-5를 API 플랫폼에 출시했으며, 이는 코딩 및 에이전트 작업을 위한 최고의 모델로 평가됩니다. [link1]  GPT-5는 SWE-bench Verified에서 74.9%, Aider polyglot에서 88%를 기록하며 주요 코딩 벤치마크에서 최첨단(SOTA) 성능을 달성했습니다.
 
 **주요 특징:**
 -   `verbosity` 파라미터(`low`, `medium`, `high`)를 지원하여 답변의 간결함과 포괄성을 조절 가능하며, `reasoning_effort` 파라미터는 최소값 설정으로 광범위한 추론 없이 빠른 응답 가능[1]
@@ -81,7 +81,7 @@ OpenAI CEO Sam Altman이 미국이 중국의 AI 발전의 전략적 특성을 �
 
 놀젠연구원 2025.08.26
 
-[1]: //openai.com/ko-KR/index/introducing-gpt-5/
+[link1]: //openai.com/ko-KR/index/introducing-gpt-5/
 [2]: //en.wikipedia.org/wiki/Z.ai
 [3]: //www.cnbc.com/2025/08/18/openai-sam-altman-warns-ai-market-is-in-a-bubble.html
 [4]: //edition.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap
