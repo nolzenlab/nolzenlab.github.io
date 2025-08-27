@@ -95,9 +95,10 @@ page-mathjax: false
 friends:
   [
     { title: "NolzenStudio", href: "http://nolzenstudio.github.io/" },
-    { title: "MAMEdev", href: "https://github.com/mamedev/" },
-    { title: "EmulatorJS", href: "https://github.com/EmulatorJS/" },
+    #{ title: "MAMEdev", href: "https://github.com/mamedev/" },
+    #{ title: "EmulatorJS", href: "https://github.com/EmulatorJS/" },
     { title: "cozrouki", href: "https://github.com/cozrouki/" },
-    { title: "LGWebOS", href: "https://webostv.developer.lge.com/" },
+    { title: "coarouki", href: "https://github.com/cozrouki/" },
+    #{ title: "LGWebOS", href: "https://webostv.developer.lge.com/" },
     { title: "ouki007", href: "https://github.com/ouki007/" },
   ]
