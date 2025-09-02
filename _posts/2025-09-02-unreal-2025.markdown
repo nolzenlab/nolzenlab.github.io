@@ -4,7 +4,7 @@ title: "2025년 9월 언리얼 엔진 보고서"
 subtitle: "\"UE 5.6 출시와 함께 글로벌 개발 환경 변화 가속화\""
 date: 2025-09-02 09:42
 author: 놀젠연구원
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/unreal-bg.jpg"
 catalog: true
 tags:
     - 언리얼엔진

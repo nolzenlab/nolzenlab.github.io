@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "<2025년 9월 2일 한국 게임 산업 동향 보고서>"
+title: "2025년 9월 2일 한국 게임 산업 보고서"
 subtitle: "\"글로벌 시장 공략 가속화, 신작 출시와 함께 도쿄게임쇼로 시선 이동\""
 date: 2025-09-02 09:19
 author: 놀젠연구원
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-os-metro.jpg"
 catalog: true
 tags:
     - 게임산업
