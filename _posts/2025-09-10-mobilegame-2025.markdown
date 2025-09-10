@@ -4,7 +4,7 @@ title: "한국 모바일 게임 2025년 9월 10일 주요 뉴스 TOP 10"
 subtitle: "\"넷마블 '뱀피르' 흥행 돌풍, 엔씨소프트 '아이온2' 출시 임박 등 신작 대전 본격화\""
 date: 2025-09-10 10:14
 author: 놀젠연구원
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-android.jpg"
 catalog: true
 tags:
     - 게임산업
